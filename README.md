@@ -92,7 +92,7 @@ La proteína verde fluorescente (o GFP) es una proteína producida por la medusa
 
 La estructura de la proteína verde fluorescente (GFP) fue determinada en 1996. Esta proteína monomérica consta de aproximadamente 238 aminoácidos y adopta una estructura terciaria en forma de barril beta, una característica común en muchas proteínas fluorescentes que se han identificado posteriormente. El barril beta de la GFP está compuesto por 11 cadenas y contiene una hélice alfa central que atraviesa el barril a lo largo de su longitud. En esta hélice se encuentran tres aminoácidos consecutivos que forman un cromóforo natural, lo que permite que la GFP emita una brillante fluorescencia verde cuando se expone a luz ultravioleta.
 
-2. Longitud y composición: 
+##  Longitud y composición: 
 
 2. ¿Cuál es la longitud de las secuencias en cada archivo? 
 3. ¿Qué proporción de A, T, C y G contienen las secuencias?
