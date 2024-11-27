@@ -37,3 +37,29 @@ Todas las secuencias corresponden a genes específicos, como la hemoglobina, ins
 ## Interpretación de Arabidopsis thaliana (cromosoma 4, contig fragment No. 17).
 ### 1. Descripción del Contexto:
 Este fragmento corresponde a un contig de 198,176 nucleótidos, identificado como AL161505.2, y es parte del genoma de Arabidopsis thaliana, una planta modelo en investigación genética. Utilizamos un archivo FASTA para analizar la composición de la secuencia, y el gráfico genómico para comprender su estructura funcional.
+
+
+### 2. Información del Gráfico:
+
+Estructura Genómica:
+- En la parte superior, el gráfico muestra los genes anotados, representados como rectángulos verdes y azules. Por ejemplo, se identifican genes como AT4g47310, AT4g47320, y otros más en esta región.
+- Las flechas indican la dirección de transcripción, ya sea hacia adelante o hacia atrás en la secuencia.
+
+Exones:
+Dentro de cada gen, los exones, que son las regiones codificantes del ADN, están indicados con colores específicos. Por ejemplo:
+- El gen AT4g47320 contiene 5 exones.
+- Otros genes tienen menos o más exones, dependiendo de su complejidad.
+
+Regiones Repetitivas:
+- En la parte inferior del gráfico, las líneas azules representan regiones repetitivas. Estas son comunes en genomas de plantas y pueden tener funciones regulatorias o estructurales.
+
+3. Análisis del Archivo FASTA:
+El archivo FASTA correspondiente a este fragmento proporciona detalles cuantitativos sobre la secuencia de ADN:
+- Composición de Bases:
+  - Adenina (A): 63,937 nucleótidos, que representan el 32.26% de la secuencia.
+  - Timina (T): 61,468 nucleótidos, equivalentes al 31.02%.
+  - Citosina (C): 37,013 nucleótidos, o el 18.68%.
+  - Guanina (G): 35,758 nucleótidos, aproximadamente el 18.04%.
+-Características Genómicas:
+  - La secuencia tiene una proporción mayor de bases A y T, algo característico de regiones genómicas ricas en AT.
+
