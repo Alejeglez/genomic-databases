@@ -1,5 +1,7 @@
 # genomic-databases
 
+Miriam Méndez Romero y Alejandro Jesús González Santana
+
 ## Análisis Comparativo de Secuencias de ADN en Formato FASTA y GenBank:
 
 ## 1. Descripción de las Secuencias:
