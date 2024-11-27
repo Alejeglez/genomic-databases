@@ -65,7 +65,7 @@ El archivo FASTA correspondiente a este fragmento proporciona detalles cuantitat
  
 ## Proteínas:
 
-##1. ¿Qué tipo de información contienen los archivos? 
+## 1. ¿Qué tipo de información contienen los archivos? 
 Se han descargado dos formatos de archivo, fasta y GenPept. 
 
 El archivo fasta contiene una cabecera donde se indica distinto tipo de información sobre la secuencia separada por |. En primer lugar encontramos el origen de la secuencia, es decir, de qué base de datos proviene.  Luego encontramos el identificador de la secuencia en la base de datos y por último, una descripción de la proteína. En la siguiente línea, se encuentra la propia secuencia.
@@ -82,7 +82,7 @@ Un GenBank record es una entrada en la base de datos GenBank que describe inform
 - Features: Características específicas de la secuencia, como localización o modificaciones.
 - Origen: La secuencia de aminoácidos de la proteína.
 
-##2. ¿Son secuencias de genes específicos, genomas completos u otras entidades biológicas?
+## 2. ¿Son secuencias de genes específicos, genomas completos u otras entidades biológicas?
 
 Son secuencias de aminoácidos que representan proteínas. En el caso de la Hemoglobina Humana, está compuesta por cuatro cadenas, dos alfa (A y C) y dos beta (B y D). Las cadenas A y C comparten longitud de secuencia (141) y contenido, mientras que las dos beta comparten estas características también (longitud 146). Esto provoca que la hemoglobina sea una proteína tetrámera, es decir, formada por cuatro subunidades.
 
