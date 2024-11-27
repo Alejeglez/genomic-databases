@@ -60,6 +60,57 @@ El archivo FASTA correspondiente a este fragmento proporciona detalles cuantitat
   - Timina (T): 61,468 nucleótidos, equivalentes al 31.02%.
   - Citosina (C): 37,013 nucleótidos, o el 18.68%.
   - Guanina (G): 35,758 nucleótidos, aproximadamente el 18.04%.
--Características Genómicas:
+- Características Genómicas:
   - La secuencia tiene una proporción mayor de bases A y T, algo característico de regiones genómicas ricas en AT.
+ 
+## Proteínas:
+
+##1. ¿Qué tipo de información contienen los archivos? 
+Se han descargado dos formatos de archivo, fasta y GenPept. 
+
+El archivo fasta contiene una cabecera donde se indica distinto tipo de información sobre la secuencia separada por |. En primer lugar encontramos el origen de la secuencia, es decir, de qué base de datos proviene.  Luego encontramos el identificador de la secuencia en la base de datos y por último, una descripción de la proteína. En la siguiente línea, se encuentra la propia secuencia.
+
+Un GenBank record es una entrada en la base de datos GenBank que describe información detallada sobre una secuencia biológica. En el caso de un archivo en formato .gp (GenPept), los campos clave incluyen:
+- Locus: Nombre único de la secuencia y sus características (tamaño, tipo de molécula, especie, fecha de modificación).
+- Definición: Descripción breve de la proteína o molécula.
+- Accesión y Versión: Identificadores únicos para la secuencia y su versión.
+- DBSource: Información sobre la base de datos de origen (en este caso, Protein Data Bank) y los detalles del método - experimental (como difracción de rayos X).
+- Palabras clave: Términos que describen la secuencia.
+- Fuente y Organismo: Especie de origen y su clasificación taxonómica.
+- Referencia: Cita de artículos relevantes sobre la secuencia.
+- Comentario: Información adicional sobre la secuencia, como su función o estado.
+- Features: Características específicas de la secuencia, como localización o modificaciones.
+- Origen: La secuencia de aminoácidos de la proteína.
+
+##2. ¿Son secuencias de genes específicos, genomas completos u otras entidades biológicas?
+
+Son secuencias de aminoácidos que representan proteínas. En el caso de la Hemoglobina Humana, está compuesta por cuatro cadenas, dos alfa (A y C) y dos beta (B y D). Las cadenas A y C comparten longitud de secuencia (141) y contenido, mientras que las dos beta comparten estas características también (longitud 146). Esto provoca que la hemoglobina sea una proteína tetrámera, es decir, formada por cuatro subunidades.
+
+La hemoglobina humana es una proteína compleja que tiene como función principal transportar oxígeno desde los pulmones hasta los tejidos y órganos del cuerpo, y transportar dióxido de carbono (CO₂), un producto de desecho del metabolismo celular, de vuelta a los pulmones para ser exhalado.
+
+La proteína verde fluorescente (o GFP) es una proteína producida por la medusa Aequorea victoria, que emite fluorescencia en la zona verde del espectro visible.
+
+La estructura de la proteína verde fluorescente (GFP) fue determinada en 1996. Esta proteína monomérica consta de aproximadamente 238 aminoácidos y adopta una estructura terciaria en forma de barril beta, una característica común en muchas proteínas fluorescentes que se han identificado posteriormente. El barril beta de la GFP está compuesto por 11 cadenas y contiene una hélice alfa central que atraviesa el barril a lo largo de su longitud. En esta hélice se encuentran tres aminoácidos consecutivos que forman un cromóforo natural, lo que permite que la GFP emita una brillante fluorescencia verde cuando se expone a luz ultravioleta.
+
+2. Longitud y composición: 
+
+2. ¿Cuál es la longitud de las secuencias en cada archivo? 
+3. ¿Qué proporción de A, T, C y G contienen las secuencias?
+
+Cadena A (ALFA) - Hemoglobina Humana:
+- Longitud de la secuencia: 141
+- Mayor Proporción: A (0.1489)
+Cadena B (BETA) - Hemoglobina Humana:
+- Longitud de la secuencia: 146
+- Mayor Proporción: L (0.1233)
+Cadena C (ALFA) - Hemoglobina Humana:
+- Longitud de la secuencia: 141
+- Mayor Proporción: A (0.1489)
+Cadena D (BETA) - Hemoglobina Humana:
+- Longitud de la secuencia: 146
+- Mayor Proporción: L (0.1233)
+Proteína Verde Fluorescente (GFP) - Cadena A:
+- Longitud de la secuencia: 236
+- Mayor Proporción: G (0.0890)
+
 
