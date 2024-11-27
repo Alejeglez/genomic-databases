@@ -97,24 +97,68 @@ La estructura de la proteína verde fluorescente (GFP) fue determinada en 1996. 
 2. ¿Cuál es la longitud de las secuencias en cada archivo? 
 3. ¿Qué proporción de A, T, C y G contienen las secuencias?
 
-Cadena A (ALFA) - Hemoglobina Humana:
+1A3N A (Hemoglobina, alfa) - Cadena A:
 - Longitud de la secuencia: 141
 - Mayor Proporción: A (0.1489)
 
-Cadena B (BETA) - Hemoglobina Humana:
+1A3N B (Hemoglobina, beta) - Cadena B:
 - Longitud de la secuencia: 146
 - Mayor Proporción: L (0.1233)
 
-Cadena C (ALFA) - Hemoglobina Humana:
+1A3N C (Hemoglobina, alfa) - Cadena C:
 - Longitud de la secuencia: 141
 - Mayor Proporción: A (0.1489)
 
-Cadena D (BETA) - Hemoglobina Humana:
+1A3N D (Hemoglobina, beta) - Cadena D:
 - Longitud de la secuencia: 146
 - Mayor Proporción: L (0.1233)
 
-Proteína Verde Fluorescente (GFP) - Cadena A:
+1EMA A (GFP) - Cadena A:
 - Longitud de la secuencia: 236
 - Mayor Proporción: G (0.0890)
+
+1IVO A (EGFR) - Cadena A:
+- Longitud de la secuencia: 121
+- Mayor Proporción: G (0.0820)
+
+1IVO B (EGFR) - Cadena B:
+- Longitud de la secuencia: 121
+- Mayor Proporción: G (0.0820)
+
+1IVO C (EGFR) - Cadena C:
+- Longitud de la secuencia: 121
+- Mayor Proporción: C (0.1132)
+
+1IVO D (EGFR) - Cadena D:
+- Longitud de la secuencia: 121
+- Mayor Proporción: C (0.1132)
+
+1INS A (Insulina, A) - Cadena A:
+- Longitud de la secuencia: 51
+- Mayor Proporción: C (0.1905)
+
+1INS B (Insulina, B) - Cadena B:
+- Longitud de la secuencia: 30
+- Mayor Proporción: L (0.1333)
+
+1INS D (Insulina, B) - Cadena D:
+- Longitud de la secuencia: 30
+- Mayor Proporción: L (0.1333)
+
+1INS C (Insulina, A) - Cadena C:
+- Longitud de la secuencia: 51
+- Mayor Proporción: C (0.1905)
+
+1TFX A (Tripsina) - Cadena A:
+- Longitud de la secuencia: 243
+- Mayor Proporción: S (0.1211)
+
+1TFX B (Tripsina) - Cadena B:
+- Longitud de la secuencia: 243
+- Mayor Proporción: S (0.1211)
+
+1TFX C (TFPI) - Cadena C:
+- Longitud de la secuencia: 203
+- Mayor Proporción: E (0.1207)
 
 
