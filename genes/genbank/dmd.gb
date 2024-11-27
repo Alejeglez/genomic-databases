@@ -1,0 +1,823 @@
+LOCUS       NM_000484               3583 bp    mRNA    linear   PRI 12-NOV-2024
+DEFINITION  Homo sapiens amyloid beta precursor protein (APP), transcript
+            variant 1, mRNA.
+ACCESSION   NM_000484
+VERSION     NM_000484.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3583)
+  AUTHORS   Majernikova,N., Marmolejo-Garza,A., Salinas,C.S., Luu,M.D.A.,
+            Zhang,Y., Trombetta-Lima,M., Tomin,T., Birner-Gruenberger,R.,
+            Lehtonen,S., Koistinaho,J., Wolters,J.C., Ayton,S., den
+            Dunnen,W.F.A. and Dolga,A.M.
+  TITLE     The link between amyloid beta and ferroptosis pathway in
+            Alzheimer's disease progression
+  JOURNAL   Cell Death Dis 15 (10), 782 (2024)
+   PUBMED   39468028
+  REMARK    GeneRIF: The link between amyloid beta and ferroptosis pathway in
+            Alzheimer's disease progression.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3583)
+  AUTHORS   Munch,N.S., Das,S. and Seeger,S.
+  TITLE     Unveiling the effect of CaCl2 on amyloid beta aggregation via
+            supercritical angle Raman and fluorescence spectroscopy and
+            microscopy
+  JOURNAL   Phys Chem Chem Phys 26 (41), 26266-26276 (2024)
+   PUBMED   39371012
+  REMARK    GeneRIF: Unveiling the effect of CaCl2 on amyloid beta aggregation
+            via supercritical angle Raman and fluorescence spectroscopy and
+            microscopy.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 3583)
+  AUTHORS   Kang,W., Lu,Y., Etaka,J.C., Salsbury,F.R. Jr. and Derreumaux,P.
+  TITLE     Structural Insight into Melatonin's Influence on the Conformation
+            of Abeta42 Dimer Studied by Molecular Dynamics Simulation
+  JOURNAL   J Phys Chem B 128 (41), 9947-9958 (2024)
+   PUBMED   39364725
+  REMARK    GeneRIF: Structural Insight into Melatonin's Influence on the
+            Conformation of Abeta42 Dimer Studied by Molecular Dynamics
+            Simulation.
+REFERENCE   4  (bases 1 to 3583)
+  AUTHORS   Tsoy,A., Umbayev,B., Kassenova,A., Kaupbayeva,B. and Askarova,S.
+  TITLE     Pathology of Amyloid-beta (Abeta) Peptide Peripheral Clearance in
+            Alzheimer's Disease
+  JOURNAL   Int J Mol Sci 25 (20), 10964 (2024)
+   PUBMED   39456746
+  REMARK    GeneRIF: Pathology of Amyloid-beta (Abeta) Peptide Peripheral
+            Clearance in Alzheimer's Disease.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3583)
+  AUTHORS   Soscia,S.J., Kirby,J.E., Washicosky,K.J., Tucker,S.M.,
+            Ingelsson,M., Hyman,B., Burton,M.A., Goldstein,L.E., Duong,S.,
+            Tanzi,R.E. and Moir,R.D.
+  TITLE     The Alzheimer's disease-associated amyloid beta-protein is an
+            antimicrobial peptide
+  JOURNAL   PLoS One 5 (3), e9505 (2010)
+   PUBMED   20209079
+  REMARK    GeneRIF: Alzheimer's disease-associated amyloid beta-protein
+            peptides display antimicrobial activity against C. albicans, E.
+            coli, S. epidermidis, S. pneumoniae, S. aureus, L. monocytogenes,
+            E. faecalis, and S. agalactiae.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 3583)
+  AUTHORS   Bird,T.D.
+  TITLE     Early-Onset Familial Alzheimer Disease - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301414
+REFERENCE   7  (bases 1 to 3583)
+  AUTHORS   Bird,T.D.
+  TITLE     Alzheimer Disease Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301340
+REFERENCE   8  (bases 1 to 3583)
+  AUTHORS   Mant,R., Asherson,P., Gill,M., McGuffin,P., Owen,M., Wert,S.E.,
+            Gregory,R.J., Smith,A.E., Cohn,J.A., Wilson,J.M. et al.
+  TITLE     Schizophrenia scepticism
+  JOURNAL   Nat Genet 2 (1), 12 (1992)
+   PUBMED   1303244
+REFERENCE   9  (bases 1 to 3583)
+  AUTHORS   Mullan,M., Crawford,F., Axelman,K., Houlden,H., Lilius,L.,
+            Winblad,B. and Lannfelt,L.
+  TITLE     A pathogenic mutation for probable Alzheimer's disease in the APP
+            gene at the N-terminus of beta-amyloid
+  JOURNAL   Nat Genet 1 (5), 345-347 (1992)
+   PUBMED   1302033
+REFERENCE   10 (bases 1 to 3583)
+  AUTHORS   Hendriks,L., van Duijn,C.M., Cras,P., Cruts,M., Van Hul,W., van
+            Harskamp,F., Warren,A., McInnis,M.G., Antonarakis,S.E., Martin,J.J.
+            et al.
+  TITLE     Presenile dementia and cerebral haemorrhage linked to a mutation at
+            codon 692 of the beta-amyloid precursor protein gene
+  JOURNAL   Nat Genet 1 (3), 218-221 (1992)
+   PUBMED   1303239
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BI559391.1, AK312326.1,
+            BC065529.1 and BM876312.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_000484.3.
+            
+            Summary: This gene encodes a cell surface receptor and
+            transmembrane precursor protein that is cleaved by secretases to
+            form a number of peptides. Some of these peptides are secreted and
+            can bind to the acetyltransferase complex APBB1/TIP60 to promote
+            transcriptional activation, while others form the protein basis of
+            the amyloid plaques found in the brains of patients with Alzheimer
+            disease. In addition, two of the peptides are antimicrobial
+            peptides, having been shown to have bacteriocidal and antifungal
+            activities. Mutations in this gene have been implicated in
+            autosomal dominant Alzheimer disease and cerebroarterial
+            amyloidosis (cerebral amyloid angiopathy). Multiple transcript
+            variants encoding several different isoforms have been found for
+            this gene. [provided by RefSeq, Aug 2014].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (a, also known as PreA4
+            770).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR11853560.19016.1,
+                                           SRR14038194.1684132.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match                 :: ENST00000346798.8/
+                                                  ENSP00000284981.4
+            Protein has antimicrobial activity :: PMID: 20209079
+            RefSeq Select criteria             :: based on conservation,
+                                                  expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-149               BI559391.1         56-204
+            150-1241            AK312326.1         65-1156
+            1242-1242           BC065529.1         1166-1166
+            1243-2463           AK312326.1         1158-2378
+            2464-3580           BC065529.1         2388-3504
+            3581-3583           BM876312.1         16-18               c
+FEATURES             Location/Qualifiers
+     source          1..3583
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21q21.3"
+     gene            1..3583
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="amyloid beta precursor protein"
+                     /db_xref="GeneID:351"
+                     /db_xref="HGNC:HGNC:620"
+                     /db_xref="MIM:104760"
+     exon            1..207
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             151..2463
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="isoform a precursor is encoded by transcript
+                     variant 1; peptidase nexin-II; cerebral vascular amyloid
+                     peptide; protease nexin-II; amyloid beta A4 protein;
+                     beta-amyloid peptide; alzheimer disease amyloid protein;
+                     beta-amyloid peptide(1-40); beta-amyloid peptide(1-42);
+                     amyloid precursor protein; beta-amyloid precursor protein;
+                     testicular tissue protein Li 2; amyloid beta (A4)
+                     precursor protein; alzheimer disease amyloid A4 protein
+                     homolog"
+                     /codon_start=1
+                     /product="amyloid-beta precursor protein isoform a
+                     precursor"
+                     /protein_id="NP_000475.1"
+                     /db_xref="CCDS:CCDS13576.1"
+                     /db_xref="GeneID:351"
+                     /db_xref="HGNC:HGNC:620"
+                     /db_xref="MIM:104760"
+                     /translation="MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMH
+                     MNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGR
+                     KQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSE
+                     KSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYA
+                     DGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTT
+                     TTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTE
+                     EYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQ
+                     KAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANER
+                     QQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHT
+                     LKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELL
+                     QKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSF
+                     GADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYE
+                     VHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDA
+                     AVTPEERHLSKMQQNGYENPTYKFFEQMQN"
+     sig_peptide     151..201
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     202..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="amyloid-beta precursor protein isoform a"
+     mat_peptide     202..2211
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="Soluble APP-alpha. /id=PRO_0000000089"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     mat_peptide     202..2163
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="Soluble APP-beta. /id=PRO_0000000090"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     mat_peptide     202..1008
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="N-APP. /id=PRO_0000381966"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    232..519
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: GFLD subdomain.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01217"
+     misc_feature    541..717
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: CuBD subdomain.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01217"
+     misc_feature    658..660
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Required for Cu(2+) reduction.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01217; propagated
+                     from UniProtKB/Swiss-Prot (P05067.3); other site"
+     misc_feature    730..1002
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    739..744
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by caspases.
+                     /evidence=ECO:0000269|PubMed:10319819; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     misc_feature    742..744
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphoserine, by CK2.
+                     /evidence=ECO:0000269|PubMed:8999878; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    766..768
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphoserine, by CK1.
+                     /evidence=ECO:0000269|PubMed:8999878; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    799..801
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Sulfotyrosine. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P05067.3); sulfatation site"
+     misc_feature    805..810
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by caspases.
+                     /evidence=ECO:0000269|PubMed:10319819; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     misc_feature    934..936
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Sulfotyrosine. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P05067.3); sulfatation site"
+     misc_feature    1051..1056
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Reactive bond; propagated from UniProtKB/Swiss-Prot
+                     (P05067.3); other site"
+     misc_feature    1156..1158
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Sulfotyrosine. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P05067.3); sulfatation site"
+     misc_feature    1180..1245
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: OX-2. /evidence=ECO:0000269|PubMed:2649245"
+     misc_feature    1321..1419
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Heparin-binding"
+     misc_feature    1471..1473
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000269|PubMed:26091039; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    1621..1716
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Heparin-binding"
+     misc_feature    1639..1641
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000269|PubMed:26091039; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    1717..1770
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Collagen-binding.
+                     /evidence=ECO:0000269|PubMed:8576160"
+     misc_feature    1774..1776
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:16335952; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    1861..1863
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2047..2049
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (GalNAc...) threonine, partial.
+                     /evidence=ECO:0000269|PubMed:21712440,
+                     ECO:0000269|PubMed:22576872; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2101..2103
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (GalNAc...) threonine, partial.
+                     /evidence=ECO:0000269|PubMed:21712440,
+                     ECO:0000269|PubMed:22576872; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2104..2106
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (GalNAc...) threonine, partial.
+                     /evidence=ECO:0000269|PubMed:21712440,
+                     ECO:0000269|PubMed:22576872; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2116..2118
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (Xyl...) (chondroitin sulfate) serine, in
+                     L-APP isoforms. /evidence=ECO:0000269|PubMed:21712440;
+                     propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     glycosylation site"
+     misc_feature    2125..2127
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (HexNAc...) threonine, partial.
+                     /evidence=ECO:0000269|PubMed:22576872; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2137..2139
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (GalNAc...) threonine, partial.
+                     /evidence=ECO:0000269|PubMed:22576872,
+                     ECO:0000305|PubMed:21712440; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2149..2151
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (GalNAc...) serine, partial.
+                     /evidence=ECO:0000269|PubMed:22576872,
+                     ECO:0000305|PubMed:21712440; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2161..2166
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by beta-secretase.
+                     /evidence=ECO:0000305|PubMed:11851430; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2164..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="C99. /id=PRO_0000000091"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     mat_peptide     2164..2289
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="amyloid-beta precursor protein isoform a"
+                     /experiment="DESCRIPTION:antimicrobial peptide[PMID:
+                     20209079]"
+                     /exception="alternative processing"
+     mat_peptide     2164..2283
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="amyloid-beta precursor protein isoform a"
+                     /experiment="DESCRIPTION:antimicrobial peptide[PMID:
+                     20209079]"
+     misc_feature    2164..2169
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by caspase-6, when associated with
+                     variant 670-N-L-671; propagated from UniProtKB/Swiss-Prot
+                     (P05067.3); cleavage site"
+     misc_feature    2182..2187
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by ACE.
+                     /evidence=ECO:0000269|PubMed:11604391,
+                     ECO:0000269|PubMed:16154999; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     misc_feature    2191..2193
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="O-linked (HexNAc...) tyrosine, partial.
+                     /evidence=ECO:0000269|PubMed:22576872; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); glycosylation site"
+     misc_feature    2209..2214
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by alpha-secretase.
+                     /evidence=ECO:0000305|PubMed:11851430; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2212..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="C83. /id=PRO_0000000094"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     mat_peptide     2212..2289
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="P3(42). /id=PRO_0000000095"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     mat_peptide     2212..2283
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="P3(40). /id=PRO_0000000096"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2218..2223
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by theta-secretase.
+                     /evidence=ECO:0000269|PubMed:16816112; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2221..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="C80. /id=PRO_0000384574"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2233..2316
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Interaction with PSEN1.
+                     /evidence=ECO:0000269|PubMed:30630874"
+     misc_feature    2254..2316
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     transmembrane region"
+     misc_feature    2260..2262
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Implicated in free radical propagation.
+                     /evidence=ECO:0000250; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); other site"
+     misc_feature    2266..2268
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Susceptible to oxidation.
+                     /evidence=ECO:0000269|PubMed:10535332; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); other site"
+     misc_feature    2281..2286
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by gamma-secretase, site 1.
+                     /evidence=ECO:0000305|PubMed:11851430; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2284..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="Gamma-secretase C-terminal fragment 59.
+                     /id=PRO_0000000097"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2287..2292
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by gamma-secretase, site 2.
+                     /evidence=ECO:0000305|PubMed:11851430; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2290..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="Gamma-secretase C-terminal fragment 57.
+                     /id=PRO_0000000098"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2308..2313
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by gamma-secretase, site 3.
+                     /evidence=ECO:0000269|PubMed:11851430,
+                     ECO:0000305|PubMed:30630874; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2311..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="Gamma-secretase C-terminal fragment 50.
+                     /evidence=ECO:0000250. /id=PRO_0000000099"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2320..2352
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Basolateral sorting signal"
+     misc_feature    2335..2337
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P08592; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    2338..2340
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphoserine, by APP-kinase I.
+                     /evidence=ECO:0000250|UniProtKB:P08592; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     misc_feature    2344..2403
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Interaction with G(o)-alpha"
+     misc_feature    2365..2370
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Cleavage, by caspase-6, caspase-8 or caspase-9.
+                     /evidence=ECO:0000269|PubMed:10319819; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); cleavage site"
+     mat_peptide     2368..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /product="C31. /id=PRO_0000000100"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3)"
+     misc_feature    2377..2379
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphothreonine, by CDK5 and MAPK10.
+                     /evidence=ECO:0000269|PubMed:28720718,
+                     ECO:0000269|PubMed:8131745, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     phosphorylation site"
+     misc_feature    2416..2460
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: Required for the interaction with KIF5B and for
+                     anterograde transport in axons.
+                     /evidence=ECO:0000269|PubMed:17062754"
+     misc_feature    2419..2436
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05067.3);
+                     Region: YENPXY motif, contains endocytosis signal.
+                     /evidence=ECO:0000269|PubMed:10383380"
+     misc_feature    2419..2421
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000269|PubMed:11877420; propagated from
+                     UniProtKB/Swiss-Prot (P05067.3); phosphorylation site"
+     exon            208..375
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            376..505
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            506..618
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            619..812
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            813..1015
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1016..1183
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1184..1240
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1241..1374
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1375..1449
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1450..1608
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1609..1737
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1738..1837
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1838..2059
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2060..2113
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2114..2214
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2215..2361
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2362..3583
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3309..3314
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="hexamer: AATAAA"
+     polyA_site      3327
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="major polyA site"
+     regulatory      3560..3565
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="hexamer: AATAAA"
+     polyA_site      3583
+                     /gene="APP"
+                     /gene_synonym="AAA; ABETA; ABPP; AD1; alpha-sAPP; APPI;
+                     CTFgamma; CVAP; PN-II; PN2; preA4"
+                     /note="major polyA site"
+ORIGIN      
+        1 gtcagtttcc tcggcagcgg taggcgagag cacgcggagg agcgtgcgcg ggggccccgg
+       61 gagacggcgg cggtggcggc gcgggcagag caaggacgcg gcggatccca ctcgcacagc
+      121 agcgcactcg gtgccccgcg cagggtcgcg atgctgcccg gtttggcact gctcctgctg
+      181 gccgcctgga cggctcgggc gctggaggta cccactgatg gtaatgctgg cctgctggct
+      241 gaaccccaga ttgccatgtt ctgtggcaga ctgaacatgc acatgaatgt ccagaatggg
+      301 aagtgggatt cagatccatc agggaccaaa acctgcattg ataccaagga aggcatcctg
+      361 cagtattgcc aagaagtcta ccctgaactg cagatcacca atgtggtaga agccaaccaa
+      421 ccagtgacca tccagaactg gtgcaagcgg ggccgcaagc agtgcaagac ccatccccac
+      481 tttgtgattc cctaccgctg cttagttggt gagtttgtaa gtgatgccct tctcgttcct
+      541 gacaagtgca aattcttaca ccaggagagg atggatgttt gcgaaactca tcttcactgg
+      601 cacaccgtcg ccaaagagac atgcagtgag aagagtacca acttgcatga ctacggcatg
+      661 ttgctgccct gcggaattga caagttccga ggggtagagt ttgtgtgttg cccactggct
+      721 gaagaaagtg acaatgtgga ttctgctgat gcggaggagg atgactcgga tgtctggtgg
+      781 ggcggagcag acacagacta tgcagatggg agtgaagaca aagtagtaga agtagcagag
+      841 gaggaagaag tggctgaggt ggaagaagaa gaagccgatg atgacgagga cgatgaggat
+      901 ggtgatgagg tagaggaaga ggctgaggaa ccctacgaag aagccacaga gagaaccacc
+      961 agcattgcca ccaccaccac caccaccaca gagtctgtgg aagaggtggt tcgagaggtg
+     1021 tgctctgaac aagccgagac ggggccgtgc cgagcaatga tctcccgctg gtactttgat
+     1081 gtgactgaag ggaagtgtgc cccattcttt tacggcggat gtggcggcaa ccggaacaac
+     1141 tttgacacag aagagtactg catggccgtg tgtggcagcg ccatgtccca aagtttactc
+     1201 aagactaccc aggaacctct tgcccgagat cctgttaaac ttcctacaac agcagccagt
+     1261 acccctgatg ccgttgacaa gtatctcgag acacctgggg atgagaatga acatgcccat
+     1321 ttccagaaag ccaaagagag gcttgaggcc aagcaccgag agagaatgtc ccaggtcatg
+     1381 agagaatggg aagaggcaga acgtcaagca aagaacttgc ctaaagctga taagaaggca
+     1441 gttatccagc atttccagga gaaagtggaa tctttggaac aggaagcagc caacgagaga
+     1501 cagcagctgg tggagacaca catggccaga gtggaagcca tgctcaatga ccgccgccgc
+     1561 ctggccctgg agaactacat caccgctctg caggctgttc ctcctcggcc tcgtcacgtg
+     1621 ttcaatatgc taaagaagta tgtccgcgca gaacagaagg acagacagca caccctaaag
+     1681 catttcgagc atgtgcgcat ggtggatccc aagaaagccg ctcagatccg gtcccaggtt
+     1741 atgacacacc tccgtgtgat ttatgagcgc atgaatcagt ctctctccct gctctacaac
+     1801 gtgcctgcag tggccgagga gattcaggat gaagttgatg agctgcttca gaaagagcaa
+     1861 aactattcag atgacgtctt ggccaacatg attagtgaac caaggatcag ttacggaaac
+     1921 gatgctctca tgccatcttt gaccgaaacg aaaaccaccg tggagctcct tcccgtgaat
+     1981 ggagagttca gcctggacga tctccagccg tggcattctt ttggggctga ctctgtgcca
+     2041 gccaacacag aaaacgaagt tgagcctgtt gatgcccgcc ctgctgccga ccgaggactg
+     2101 accactcgac caggttctgg gttgacaaat atcaagacgg aggagatctc tgaagtgaag
+     2161 atggatgcag aattccgaca tgactcagga tatgaagttc atcatcaaaa attggtgttc
+     2221 tttgcagaag atgtgggttc aaacaaaggt gcaatcattg gactcatggt gggcggtgtt
+     2281 gtcatagcga cagtgatcgt catcaccttg gtgatgctga agaagaaaca gtacacatcc
+     2341 attcatcatg gtgtggtgga ggttgacgcc gctgtcaccc cagaggagcg ccacctgtcc
+     2401 aagatgcagc agaacggcta cgaaaatcca acctacaagt tctttgagca gatgcagaac
+     2461 tagacccccg ccacagcagc ctctgaagtt ggacagcaaa accattgctt cactacccat
+     2521 cggtgtccat ttatagaata atgtgggaag aaacaaaccc gttttatgat ttactcatta
+     2581 tcgccttttg acagctgtgc tgtaacacaa gtagatgcct gaacttgaat taatccacac
+     2641 atcagtaatg tattctatct ctctttacat tttggtctct atactacatt attaatgggt
+     2701 tttgtgtact gtaaagaatt tagctgtatc aaactagtgc atgaatagat tctctcctga
+     2761 ttatttatca catagcccct tagccagttg tatattattc ttgtggtttg tgacccaatt
+     2821 aagtcctact ttacatatgc tttaagaatc gatgggggat gcttcatgtg aacgtgggag
+     2881 ttcagctgct tctcttgcct aagtattcct ttcctgatca ctatgcattt taaagttaaa
+     2941 catttttaag tatttcagat gctttagaga gatttttttt ccatgactgc attttactgt
+     3001 acagattgct gcttctgcta tatttgtgat ataggaatta agaggataca cacgtttgtt
+     3061 tcttcgtgcc tgttttatgt gcacacatta ggcattgaga cttcaagctt ttcttttttt
+     3121 gtccacgtat ctttgggtct ttgataaaga aaagaatccc tgttcattgt aagcactttt
+     3181 acggggcggg tggggagggg tgctctgctg gtcttcaatt accaagaatt ctccaaaaca
+     3241 attttctgca ggatgattgt acagaatcat tgcttatgac atgatcgctt tctacactgt
+     3301 attacataaa taaattaaat aaaataaccc cgggcaagac ttttctttga aggatgacta
+     3361 cagacattaa ataatcgaag taattttggg tggggagaag aggcagattc aattttcttt
+     3421 aaccagtctg aagtttcatt tatgatacaa aagaagatga aaatggaagt ggcaatataa
+     3481 ggggatgagg aaggcatgcc tggacaaacc cttcttttaa gatgtgtctt caatttgtat
+     3541 aaaatggtgt tttcatgtaa ataaatacat tcttggagga gca
+//
+

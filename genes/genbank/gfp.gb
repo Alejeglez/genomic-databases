@@ -1,0 +1,146 @@
+LOCUS       U57608                  4737 bp    DNA     circular SYN 29-AUG-2003
+DEFINITION  Cloning vector pEGFP-N2 with enhanced green fluorescent protein
+            gene, complete sequence.
+ACCESSION   U57608
+VERSION     U57608.1
+KEYWORDS    .
+SOURCE      Cloning vector pEGFP-N2
+  ORGANISM  Cloning vector pEGFP-N2
+            other sequences; artificial sequences; vectors.
+REFERENCE   1  (bases 1 to 4737)
+  AUTHORS   Cormack,B.P., Valdivia,R.H. and Falkow,S.
+  TITLE     FACS-optimized mutants of the green fluorescent protein (GFP)
+  JOURNAL   Gene 173 (1 SPEC NO), 33-38 (1996)
+   PUBMED   8707053
+REFERENCE   2  (bases 1 to 4737)
+  AUTHORS   Kitts,P.A.
+  TITLE     pEGFP-N2 complete sequence
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 4737)
+  AUTHORS   Kitts,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-1996) CLONTECH Laboratories, Inc., 1020 East
+            Meadow Circle, Palo Alto, CA 94303-4230, USA
+COMMENT     On Sep 14, 1996 this sequence version replaced gi:1373321.
+            This vector can be obtained from CLONTECH Laboratories, Inc., 1020
+            East Meadow Circle, Palo Alto, CA 94303-4230, USA. To place an
+            order call (415) 424-8222 or (800) 662-2566, extension 1.
+            International customers, please contact your local distributor. For
+            technical information, call (415) 424-8222 or (800) 662-2566,
+            extension 3.
+            This sequence has been compiled from information in the sequence
+            databases, published literature and other sources, together with
+            partial sequences obtained by CLONTECH. If you suspect there is an
+            error in this sequence, please contact CLONTECH's Technical Service
+            Department at (415) 424-8222 or (800) 662-2566, extension 3 or
+            E-mail TECH@CLONTECH.COM.
+FEATURES             Location/Qualifiers
+     source          1..4737
+                     /organism="Cloning vector pEGFP-N2"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:47842"
+     gene            683..1402
+                     /gene="egfp"
+     CDS             683..1402
+                     /gene="egfp"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Enhanced Green Fluorescent Protein"
+                     /protein_id="AAB08062.1"
+                     /translation="MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLT
+                     LKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFK
+                     DDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKN
+                     GIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDH
+                     MVLLEFVTAAGITLGMDELYK"
+     CDS             2633..3427
+                     /codon_start=1
+                     /transl_table=11
+                     /product="neomycin phosphotransferase"
+                     /protein_id="AAB08063.1"
+                     /translation="MIEQDGLHAGSPAAWVERLFGYDWAQQTIGCSDAAVFRLSAQGR
+                     PVLFVKTDLSGALNELQDEAARLSWLATTGVPCAAVLDVVTEAGRDWLLLGEVPGQDL
+                     LSSHLAPAEKVSIMADAMRRLHTLDPATCPFDHQAKHRIERARTRMEAGLVDQDDLDE
+                     EHQGLAPAELFARLKASMPDGEDLVVTHGDACLPNIMVENGRFSGFIDCGRLGVADRY
+                     QDIALATRDIAEELGGEWADRFLVLYGIAAPDSQRIAFYRLLDEFF"
+ORIGIN      
+        1 tagttattaa tagtaatcaa ttacggggtc attagttcat agcccatata tggagttccg
+       61 cgttacataa cttacggtaa atggcccgcc tggctgaccg cccaacgacc cccgcccatt
+      121 gacgtcaata atgacgtatg ttcccatagt aacgccaata gggactttcc attgacgtca
+      181 atgggtggag tatttacggt aaactgccca cttggcagta catcaagtgt atcatatgcc
+      241 aagtacgccc cctattgacg tcaatgacgg taaatggccc gcctggcatt atgcccagta
+      301 catgacctta tgggactttc ctacttggca gtacatctac gtattagtca tcgctattac
+      361 catggtgatg cggttttggc agtacatcaa tgggcgtgga tagcggtttg actcacgggg
+      421 atttccaagt ctccacccca ttgacgtcaa tgggagtttg ttttggcacc aaaatcaacg
+      481 ggactttcca aaatgtcgta acaactccgc cccattgacg caaatgggcg gtaggcgtgt
+      541 acggtgggag gtctatataa gcagagctgg tttagtgaac cgtcagatcc gctagcgcta
+      601 ccggactcag atctcgagct caagcttcga attctgcagt cgacggtacc gcgggcccgg
+      661 gatccaccgg ccggtcgcca ccatggtgag caagggcgag gagctgttca ccggggtggt
+      721 gcccatcctg gtcgagctgg acggcgacgt aaacggccac aagttcagcg tgtccggcga
+      781 gggcgagggc gatgccacct acggcaagct gaccctgaag ttcatctgca ccaccggcaa
+      841 gctgcccgtg ccctggccca ccctcgtgac caccctgacc tacggcgtgc agtgcttcag
+      901 ccgctacccc gaccacatga agcagcacga cttcttcaag tccgccatgc ccgaaggcta
+      961 cgtccaggag cgcaccatct tcttcaagga cgacggcaac tacaagaccc gcgccgaggt
+     1021 gaagttcgag ggcgacaccc tggtgaaccg catcgagctg aagggcatcg acttcaagga
+     1081 ggacggcaac atcctggggc acaagctgga gtacaactac aacagccaca acgtctatat
+     1141 catggccgac aagcagaaga acggcatcaa ggtgaacttc aagatccgcc acaacatcga
+     1201 ggacggcagc gtgcagctcg ccgaccacta ccagcagaac acccccatcg gcgacggccc
+     1261 cgtgctgctg cccgacaacc actacctgag cacccagtcc gccctgagca aagaccccaa
+     1321 cgagaagcgc gatcacatgg tcctgctgga gttcgtgacc gccgccggga tcactctcgg
+     1381 catggacgag ctgtacaagt aaagcggccg cgactctaga tcataatcag ccataccaca
+     1441 tttgtagagg ttttacttgc tttaaaaaac ctcccacacc tccccctgaa cctgaaacat
+     1501 aaaatgaatg caattgttgt tgttaacttg tttattgcag cttataatgg ttacaaataa
+     1561 agcaatagca tcacaaattt cacaaataaa gcattttttt cactgcattc tagttgtggt
+     1621 ttgtccaaac tcatcaatgt atcttaaggc gtaaattgta agcgttaata ttttgttaaa
+     1681 attcgcgtta aatttttgtt aaatcagctc attttttaac caataggccg aaatcggcaa
+     1741 aatcccttat aaatcaaaag aatagaccga gatagggttg agtgttgttc cagtttggaa
+     1801 caagagtcca ctattaaaga acgtggactc caacgtcaaa gggcgaaaaa ccgtctatca
+     1861 gggcgatggc ccactacgtg aaccatcacc ctaatcaagt tttttggggt cgaggtgccg
+     1921 taaagcacta aatcggaacc ctaaagggag cccccgattt agagcttgac ggggaaagcc
+     1981 ggcgaacgtg gcgagaaagg aagggaagaa agcgaaagga gcgggcgcta gggcgctggc
+     2041 aagtgtagcg gtcacgctgc gcgtaaccac cacacccgcc gcgcttaatg cgccgctaca
+     2101 gggcgcgtca ggtggcactt ttcggggaaa tgtgcgcgga acccctattt gtttattttt
+     2161 ctaaatacat tcaaatatgt atccgctcat gagacaataa ccctgataaa tgcttcaata
+     2221 atattgaaaa aggaagagtc ctgaggcgga aagaaccagc tgtggaatgt gtgtcagtta
+     2281 gggtgtggaa agtccccagg ctccccagca ggcagaagta tgcaaagcat gcatctcaat
+     2341 tagtcagcaa ccaggtgtgg aaagtcccca ggctccccag caggcagaag tatgcaaagc
+     2401 atgcatctca attagtcagc aaccatagtc ccgcccctaa ctccgcccat cccgccccta
+     2461 actccgccca gttccgccca ttctccgccc catggctgac taattttttt tatttatgca
+     2521 gaggccgagg ccgcctcggc ctctgagcta ttccagaagt agtgaggagg cttttttgga
+     2581 ggcctaggct tttgcaaaga tcgatcaaga gacaggatga ggatcgtttc gcatgattga
+     2641 acaagatgga ttgcacgcag gttctccggc cgcttgggtg gagaggctat tcggctatga
+     2701 ctgggcacaa cagacaatcg gctgctctga tgccgccgtg ttccggctgt cagcgcaggg
+     2761 gcgcccggtt ctttttgtca agaccgacct gtccggtgcc ctgaatgaac tgcaagacga
+     2821 ggcagcgcgg ctatcgtggc tggccacgac gggcgttcct tgcgcagctg tgctcgacgt
+     2881 tgtcactgaa gcgggaaggg actggctgct attgggcgaa gtgccggggc aggatctcct
+     2941 gtcatctcac cttgctcctg ccgagaaagt atccatcatg gctgatgcaa tgcggcggct
+     3001 gcatacgctt gatccggcta cctgcccatt cgaccaccaa gcgaaacatc gcatcgagcg
+     3061 agcacgtact cggatggaag ccggtcttgt cgatcaggat gatctggacg aagagcatca
+     3121 ggggctcgcg ccagccgaac tgttcgccag gctcaaggcg agcatgcccg acggcgagga
+     3181 tctcgtcgtg acccatggcg atgcctgctt gccgaatatc atggtggaaa atggccgctt
+     3241 ttctggattc atcgactgtg gccggctggg tgtggcggac cgctatcagg acatagcgtt
+     3301 ggctacccgt gatattgctg aagagcttgg cggcgaatgg gctgaccgct tcctcgtgct
+     3361 ttacggtatc gccgctcccg attcgcagcg catcgccttc tatcgccttc ttgacgagtt
+     3421 cttctgagcg ggactctggg gttcgaaatg accgaccaag cgacgcccaa cctgccatca
+     3481 cgagatttcg attccaccgc cgccttctat gaaaggttgg gcttcggaat cgttttccgg
+     3541 gacgccggct ggatgatcct ccagcgcggg gatctcatgc tggagttctt cgcccaccct
+     3601 agggggaggc taactgaaac acggaaggag acaataccgg aaggaacccg cgctatgacg
+     3661 gcaataaaaa gacagaataa aacgcacggt gttgggtcgt ttgttcataa acgcggggtt
+     3721 cggtcccagg gctggcactc tgtcgatacc ccaccgagac cccattgggg ccaatacgcc
+     3781 cgcgtttctt ccttttcccc accccacccc ccaagttcgg gtgaaggccc agggctcgca
+     3841 gccaacgtcg gggcggcagg ccctgccata gcctcaggtt actcatatat actttagatt
+     3901 gatttaaaac ttcattttta atttaaaagg atctaggtga agatcctttt tgataatctc
+     3961 atgaccaaaa tcccttaacg tgagttttcg ttccactgag cgtcagaccc cgtagaaaag
+     4021 atcaaaggat cttcttgaga tccttttttt ctgcgcgtaa tctgctgctt gcaaacaaaa
+     4081 aaaccaccgc taccagcggt ggtttgtttg ccggatcaag agctaccaac tctttttccg
+     4141 aaggtaactg gcttcagcag agcgcagata ccaaatactg tccttctagt gtagccgtag
+     4201 ttaggccacc acttcaagaa ctctgtagca ccgcctacat acctcgctct gctaatcctg
+     4261 ttaccagtgg ctgctgccag tggcgataag tcgtgtctta ccgggttgga ctcaagacga
+     4321 tagttaccgg ataaggcgca gcggtcgggc tgaacggggg gttcgtgcac acagcccagc
+     4381 ttggagcgaa cgacctacac cgaactgaga tacctacagc gtgagctatg agaaagcgcc
+     4441 acgcttcccg aagggagaaa ggcggacagg tatccggtaa gcggcagggt cggaacagga
+     4501 gagcgcacga gggagcttcc agggggaaac gcctggtatc tttatagtcc tgtcgggttt
+     4561 cgccacctct gacttgagcg tcgatttttg tgatgctcgt caggggggcg gagcctatgg
+     4621 aaaaacgcca gcaacgcggc ctttttacgg ttcctggcct tttgctggcc ttttgctcac
+     4681 atgttctttc ctgcgttatc ccctgattct gtggataacc gtattaccgc catgcat
+//
+

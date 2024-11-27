@@ -1,0 +1,342 @@
+LOCUS       NM_000024               2013 bp    mRNA    linear   PRI 12-OCT-2024
+DEFINITION  Homo sapiens adrenoceptor beta 2 (ADRB2), mRNA.
+ACCESSION   NM_000024
+VERSION     NM_000024.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2013)
+  AUTHORS   Saha,P.P., Gogonea,V., Sweet,W., Mohan,M.L., Singh,K.D.,
+            Anderson,J.T., Mallela,D., Witherow,C., Kar,N., Stenson,K.,
+            Harford,T., Fischbach,M.A., Brown,J.M., Karnik,S.S., Moravec,C.S.,
+            DiDonato,J.A., Naga Prasad,S.V. and Hazen,S.L.
+  TITLE     Gut microbe-generated phenylacetylglutamine is an endogenous
+            allosteric modulator of beta2-adrenergic receptors
+  JOURNAL   Nat Commun 15 (1), 6696 (2024)
+   PUBMED   39107277
+  REMARK    GeneRIF: Gut microbe-generated phenylacetylglutamine is an
+            endogenous allosteric modulator of beta2-adrenergic receptors.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2013)
+  AUTHORS   Liang,J., Seghiri,M., Singh,P.K., Seo,H.G., Lee,J.Y., Jo,Y.,
+            Song,Y.B., Park,C., Zalicki,P., Jeong,J.Y., Huh,W.K.,
+            Caculitan,N.G. and Smith,A.W.
+  TITLE     The beta2-adrenergic receptor associates with CXCR4 multimers in
+            human cancer cells
+  JOURNAL   Proc Natl Acad Sci U S A 121 (14), e2304897121 (2024)
+   PUBMED   38547061
+  REMARK    GeneRIF: The beta2-adrenergic receptor associates with CXCR4
+            multimers in human cancer cells.
+REFERENCE   3  (bases 1 to 2013)
+  AUTHORS   Lu,Y., Cheng,D., Pang,J., Peng,Y., Jin,S., Zhang,X., Li,Y. and
+            Zuo,Y.
+  TITLE     Chronic stress promotes gastric cancer progression via the
+            adrenoceptor beta 2/PlexinA1 pathway
+  JOURNAL   Cell Stress Chaperones 29 (1), 201-215 (2024)
+   PUBMED   38331165
+  REMARK    GeneRIF: Chronic stress promotes gastric cancer progression via the
+            adrenoceptor beta 2/PlexinA1 pathway.
+REFERENCE   4  (bases 1 to 2013)
+  AUTHORS   Donato-Trancoso,A., Cristina de Souza Ribeiro,B., Barrozo do
+            Canto,F., de Souza Nogueira,J. and Romana-Souza,B.
+  TITLE     Chronic psychological stress aggravates psoriasis-like skin
+            inflammation via overactivation of beta2-adrenoceptor and nuclear
+            factor kappa B pathways
+  JOURNAL   Scand J Immunol 97 (4), e13258 (2023)
+   PUBMED   39007953
+  REMARK    GeneRIF: Chronic psychological stress aggravates psoriasis-like
+            skin inflammation via overactivation of beta2-adrenoceptor and
+            nuclear factor kappa B pathways.
+REFERENCE   5  (bases 1 to 2013)
+  AUTHORS   Parola,A.L. and Kobilka,B.K.
+  TITLE     The peptide product of a 5' leader cistron in the beta 2 adrenergic
+            receptor mRNA inhibits receptor synthesis
+  JOURNAL   J Biol Chem 269 (6), 4497-4505 (1994)
+   PUBMED   8308019
+REFERENCE   6  (bases 1 to 2013)
+  AUTHORS   Gope,R., Gope,M.L., Thorson,A., Christensen,M., Smyrk,T., Chun,M.,
+            Alvarez,L., Wildrick,D.M. and Boman,B.M.
+  TITLE     Genetic changes at the beta-2-adrenergic receptor locus on
+            chromosome 5 in human colorectal carcinomas
+  JOURNAL   Anticancer Res 11 (6), 2047-2050 (1991)
+   PUBMED   1663718
+REFERENCE   7  (bases 1 to 2013)
+  AUTHORS   Bouvier,M., Guilbault,N. and Bonin,H.
+  TITLE     Phorbol-ester-induced phosphorylation of the beta 2-adrenergic
+            receptor decreases its coupling to Gs
+  JOURNAL   FEBS Lett 279 (2), 243-248 (1991)
+   PUBMED   1848190
+REFERENCE   8  (bases 1 to 2013)
+  AUTHORS   Yang-Feng,T.L., Xue,F.Y., Zhong,W.W., Cotecchia,S., Frielle,T.,
+            Caron,M.G., Lefkowitz,R.J. and Francke,U.
+  TITLE     Chromosomal organization of adrenergic receptor genes
+  JOURNAL   Proc Natl Acad Sci U S A 87 (4), 1516-1520 (1990)
+   PUBMED   2154750
+REFERENCE   9  (bases 1 to 2013)
+  AUTHORS   Emorine,L.J., Marullo,S., Delavier-Klutchko,C., Kaveri,S.V.,
+            Durieu-Trautmann,O. and Strosberg,A.D.
+  TITLE     Structure of the gene for human beta 2-adrenergic receptor:
+            expression and promoter characterization
+  JOURNAL   Proc Natl Acad Sci U S A 84 (20), 6995-6999 (1987)
+   PUBMED   2823249
+REFERENCE   10 (bases 1 to 2013)
+  AUTHORS   Bucens,D. and Pain,M.C.
+  TITLE     Influence of hematocrit, blood gas tensions, and pH on
+            pressure-flow relations in the isolated canine lung
+  JOURNAL   Circ Res 37 (5), 588-596 (1975)
+   PUBMED   154
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK313151.1, AC011354.4,
+            BC073856.1 and CA440083.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jan 15, 2020 this sequence version replaced NM_000024.5.
+            
+            Summary: This gene encodes beta-2-adrenergic receptor which is a
+            member of the G protein-coupled receptor superfamily. This receptor
+            is directly associated with one of its ultimate effectors, the
+            class C L-type calcium channel Ca(V)1.2. This receptor-channel
+            complex also contains a G protein, an adenylyl cyclase,
+            cAMP-dependent kinase, and the counterbalancing phosphatase, PP2A.
+            The assembly of the signaling complex provides a mechanism that
+            ensures specific and rapid signaling by this G protein-coupled
+            receptor. This receptor is also a transcription regulator of the
+            alpha-synuclein gene, and together, both genes are believed to be
+            associated with risk of Parkinson's Disease. This gene is
+            intronless. Different polymorphic forms, point mutations, and/or
+            downregulation of this gene are associated with nocturnal asthma,
+            obesity, type 2 diabetes and cardiovascular disease. [provided by
+            RefSeq, Oct 2019].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript is intronless :: X04827.1, AK313151.1 [ECO:0000345]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000305988.6/ ENSP00000305372.4
+            RefSeq Select criteria :: based on single protein-coding transcript
+            regulatory uORF        :: PMID: 8308019
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-431               AK313151.1         1-431
+            432-432             AC011354.4         127997-127997
+            433-1463            AK313151.1         433-1463
+            1464-1553           BC073856.1         1433-1522
+            1554-2013           CA440083.1         19-478              c
+FEATURES             Location/Qualifiers
+     source          1..2013
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q32"
+     gene            1..2013
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="adrenoceptor beta 2"
+                     /db_xref="GeneID:154"
+                     /db_xref="HGNC:HGNC:286"
+                     /db_xref="MIM:109690"
+     exon            1..2013
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      121..180
+                     /regulatory_class="uORF"
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /experiment="DESCRIPTION:regulatory uORF[PMID:8308019]"
+                     /note="regulatory uORF; this uORF encodes a 19 aa peptide
+                     (PMID:8308019)"
+     CDS             222..1463
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="catecholamine receptor; beta-2 adrenoceptor; beta-2
+                     adrenoreceptor; adrenergic, beta-2-, receptor, surface;
+                     adrenoceptor beta 2 surface"
+                     /codon_start=1
+                     /product="beta-2 adrenergic receptor"
+                     /protein_id="NP_000015.2"
+                     /db_xref="CCDS:CCDS4292.1"
+                     /db_xref="GeneID:154"
+                     /db_xref="HGNC:HGNC:286"
+                     /db_xref="MIM:109690"
+                     /translation="MGQPGNGSAFLLAPNGSHAPDHDVTQERDEVWVVGMGIVMSLIV
+                     LAIVFGNVLVITAIAKFERLQTVTNYFITSLACADLVMGLAVVPFGAAHILMKMWTFG
+                     NFWCEFWTSIDVLCVTASIETLCVIAVDRYFAITSPFKYQSLLTKNKARVIILMVWIV
+                     SGLTSFLPIQMHWYRATHQEAINCYANETCCDFFTNQAYAIASSIVSFYVPLVIMVFV
+                     YSRVFQEAKRQLQKIDKSEGRFHVQNLSQVEQDGRTGHGLRRSSKFCLKEHKALKTLG
+                     IIMGTFTLCWLPFFIVNIVHVIQDNLIRKEVYILLNWIGYVNSGFNPLIYCRSPDFRI
+                     AFQELLCLRRSSLKAYGNGYSSNGNTGEQSGYHVEQEKENKLLCEDLPGTEDFVGHQG
+                     TVPSDNIDSQGRNCSTNDSLL"
+     misc_feature    237..239
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); glycosylation site"
+     misc_feature    264..266
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); glycosylation site"
+     misc_feature    324..395
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    435..506
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    540..608
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    642..644
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000269|PubMed:8521811; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); phosphorylation site"
+     misc_feature    672..743
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    810..881
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    957..959
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17525332; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); phosphorylation site"
+     misc_feature    1002..1004
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by PKA. /evidence=ECO:0000255;
+                     propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     phosphorylation site"
+     misc_feature    1005..1007
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by PKA. /evidence=ECO:0000255;
+                     propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     phosphorylation site"
+     misc_feature    1044..1115
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    1137..1208
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     transmembrane region"
+     misc_feature    1254..1256
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:11146000; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); phosphorylation site"
+     misc_feature    1257..1259
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:11146000; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); phosphorylation site"
+     misc_feature    1284..1286
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by BARK. /evidence=ECO:0000305;
+                     propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     phosphorylation site"
+     misc_feature    1287..1289
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="Phosphoserine, by BARK. /evidence=ECO:0000305;
+                     propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     phosphorylation site"
+     misc_feature    1365..1367
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000269|PubMed:19584355; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); hydroxylation site"
+     misc_feature    1395..1460
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1404..1406
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="4-hydroxyproline.
+                     /evidence=ECO:0000269|PubMed:19584355; propagated from
+                     UniProtKB/Swiss-Prot (P07550.3); hydroxylation site"
+     misc_feature    1449..1460
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07550.3);
+                     Region: PDZ-binding"
+     regulatory      1995..2000
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="hexamer: AATAAA"
+     polyA_site      2013
+                     /gene="ADRB2"
+                     /gene_synonym="ADRB2R; ADRBR; ARB2; B2AR; BAR; BETA2AR"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcactgcgaa gcggcttctt cagagcacgg gctggaactg gcaggcaccg cgagccccta
+       61 gcacccgaca agctgagtgt gcaggacgag tccccaccac acccacacca cagccgctga
+      121 atgaggcttc caggcgtccg ctcgcggccc gcagagcccc gccgtgggtc cgcccgctga
+      181 ggcgccccca gccagtgcgc tcacctgcca gactgcgcgc catggggcaa cccgggaacg
+      241 gcagcgcctt cttgctggca cccaatggaa gccatgcgcc ggaccacgac gtcacgcagg
+      301 aaagggacga ggtgtgggtg gtgggcatgg gcatcgtcat gtctctcatc gtcctggcca
+      361 tcgtgtttgg caatgtgctg gtcatcacag ccattgccaa gttcgagcgt ctgcagacgg
+      421 tcaccaacta cttcatcact tcactggcct gtgctgatct ggtcatgggc ctggcagtgg
+      481 tgccctttgg ggccgcccat attcttatga aaatgtggac ttttggcaac ttctggtgcg
+      541 agttttggac ttccattgat gtgctgtgcg tcacggccag cattgagacc ctgtgcgtga
+      601 tcgcagtgga tcgctacttt gccattactt cacctttcaa gtaccagagc ctgctgacca
+      661 agaataaggc ccgggtgatc attctgatgg tgtggattgt gtcaggcctt acctccttct
+      721 tgcccattca gatgcactgg taccgggcca cccaccagga agccatcaac tgctatgcca
+      781 atgagacctg ctgtgacttc ttcacgaacc aagcctatgc cattgcctct tccatcgtgt
+      841 ccttctacgt tcccctggtg atcatggtct tcgtctactc cagggtcttt caggaggcca
+      901 aaaggcagct ccagaagatt gacaaatctg agggccgctt ccatgtccag aaccttagcc
+      961 aggtggagca ggatgggcgg acggggcatg gactccgcag atcttccaag ttctgcttga
+     1021 aggagcacaa agccctcaag acgttaggca tcatcatggg cactttcacc ctctgctggc
+     1081 tgcccttctt catcgttaac attgtgcatg tgatccagga taacctcatc cgtaaggaag
+     1141 tttacatcct cctaaattgg ataggctatg tcaattctgg tttcaatccc cttatctact
+     1201 gccggagccc agatttcagg attgccttcc aggagcttct gtgcctgcgc aggtcttctt
+     1261 tgaaggccta tgggaatggc tactccagca acggcaacac aggggagcag agtggatatc
+     1321 acgtggaaca ggagaaagaa aataaactgc tgtgtgaaga cctcccaggc acggaagact
+     1381 ttgtgggcca tcaaggtact gtgcctagcg ataacattga ttcacaaggg aggaattgta
+     1441 gtacaaatga ctcactgctg taaagcagtt tttctacttt taaagacccc cccccccaac
+     1501 agaacactaa acagactatt taacttgagg gtaataaact tagaataaaa ttgtaaaatt
+     1561 gtatagagat atgcagaagg aagggcatcc ttctgccttt tttatttttt taagctgtaa
+     1621 aaagagagaa aacttatttg agtgattatt tgttatttgt acagttcagt tcctctttgc
+     1681 atggaatttg taagtttatg tctaaagagc tttagtccta gaggacctga gtctgctata
+     1741 ttttcatgac ttttccatgt atctacctca ctattcaagt attaggggta atatattgct
+     1801 gctggtaatt tgtatctgaa ggagattttc cttcctacac ccttggactt gaggattttg
+     1861 agtatctcgg acctttcagc tgtgaacatg gactcttccc ccactcctct tatttgctca
+     1921 cacggggtat tttaggcagg gatttgagga gcagcttcag ttgttttccc gagcaaagtc
+     1981 taaagtttac agtaaataaa ttgtttgacc atg
+//
+
