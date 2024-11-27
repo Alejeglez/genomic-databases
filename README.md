@@ -100,15 +100,19 @@ La estructura de la proteína verde fluorescente (GFP) fue determinada en 1996. 
 Cadena A (ALFA) - Hemoglobina Humana:
 - Longitud de la secuencia: 141
 - Mayor Proporción: A (0.1489)
+
 Cadena B (BETA) - Hemoglobina Humana:
 - Longitud de la secuencia: 146
 - Mayor Proporción: L (0.1233)
+
 Cadena C (ALFA) - Hemoglobina Humana:
 - Longitud de la secuencia: 141
 - Mayor Proporción: A (0.1489)
+
 Cadena D (BETA) - Hemoglobina Humana:
 - Longitud de la secuencia: 146
 - Mayor Proporción: L (0.1233)
+
 Proteína Verde Fluorescente (GFP) - Cadena A:
 - Longitud de la secuencia: 236
 - Mayor Proporción: G (0.0890)
